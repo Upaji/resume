@@ -1,0 +1,37 @@
+body{
+    background-color: #adebf3;
+    color: blueviolet;
+    text-align: center;
+    border: dotted;
+    background-image: url(tree\ 2.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(250, 247, 247);
+    width: 50%;
+    border-width: 5px;
+}
+
+h2{
+
+    color: rgb(127, 43, 236);
+    border-color: rgb(219, 227, 235);
+    text-decoration-line: overline underline;
+    text-decoration-style: double;
+    text-decoration-color: red;
+}
+
+table{
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    padding: 8px;
+}
+
