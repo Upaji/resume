@@ -13,7 +13,7 @@ body{
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: rgb(250, 247, 247);
+    border-color: blue;
     width: 50%;
     border-width: 5px;
 }
